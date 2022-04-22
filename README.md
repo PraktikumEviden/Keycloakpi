@@ -10,4 +10,4 @@ setup von Keycloak auf dem Raspberrypi 4 mithilfe von docker.
 
 3. Nun konfigurieren wir den keycloak. Note: Falls dir die Folgenden Namensgebung nicht gefällt, kannst du sie einfach unter Angular src/app/environments/keycloak.config.ts ändern. Darauf erstellt ihr realm, mit dem namen myrealm 
 
-![alt text](https://github.com/[PraktikumAtos]/[Keycloakpi]/blob/[main]/image.png?raw=true)
+![alt text](https://github.com/[PraktikumAtos]/[Keycloakpi]/blob/[main]file/.png?raw=true)
